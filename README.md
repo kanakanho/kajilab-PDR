@@ -19,11 +19,9 @@ $ . .venv/bin/activate
 ### ライブラリのインポート
 
 ```zsh
-$ pip freeze > requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Colab
 
 なし
-
-# 
