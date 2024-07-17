@@ -24,4 +24,4 @@ $ pip install -r requirements.txt
 
 ## Colab
 
-なし
+https://colab.research.google.com/github/kanakanho/kajilab-PDR/blob/main/main.ipynb
